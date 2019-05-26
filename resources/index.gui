@@ -1,0 +1,43 @@
+<svg viewport-fill="black">
+    <text id="time" x="50%" y="83" font-size="80" text-anchor="middle" fill="orange" font-weight="bold">
+       00:00
+    </text>
+    <rect x="0" y="100" width="100%" height="1" fill="grey" />
+    <svg x="0" y="103" width="100%" height="80" id="graph">
+      <mask id="graph-mask">
+       <rect id="mask-0700" />
+       <rect id="mask-0730" />
+       <rect id="mask-0800" />
+       <rect id="mask-0830" />
+       <rect id="mask-0900" />
+       <rect id="mask-0930" />
+       <rect id="mask-1000" />
+       <rect id="mask-1030" />
+       <rect id="mask-1100" />
+       <rect id="mask-1130" />
+       <rect id="mask-1200" />
+       <rect id="mask-1230" />
+       <rect id="mask-1300" />
+       <rect id="mask-1330" />
+       <rect id="mask-1400" />
+       <rect id="mask-1430" />
+       <rect id="mask-1500" />
+       <rect id="mask-1530" />
+       <rect id="mask-1600" />
+       <rect id="mask-1630" />
+       <rect id="mask-1700" />
+       <rect id="mask-1730" />
+       <rect id="mask-1800" />
+       <rect id="mask-1830" />
+      </mask>
+      <svg mask="#graph-mask" width="100%" height="100%" id="graph-background">
+        <gradientRect x="0" y="0" width="100%" height="100%"
+          gradient-type="linear"
+          gradient-color1="yellow"
+          gradient-x1="0" gradient-y1="0"
+          gradient-color2="purple"
+        gradient-x2="0" gradient-y2="100%" />
+      </svg>
+    </svg>
+    <rect x="0" y="183" width="100%" height="1" fill="grey" />
+</svg>

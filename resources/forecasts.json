@@ -1,0 +1,130 @@
+{
+  "forecasts": [
+    {
+      "pv_estimate": 0.4295,
+      "pv_estimate10": 0.2678,
+      "pv_estimate90": 0.6601,
+      "period_end": "2019-05-26T22:30:00.0000000Z",
+      "period": "PT30M"
+    },
+    {
+      "pv_estimate": 0.766,
+      "pv_estimate10": 0.5098,
+      "pv_estimate90": 1.1051,
+      "period_end": "2019-05-26T23:00:00.0000000Z",
+      "period": "PT30M"
+    },
+    {
+      "pv_estimate": 1.0308,
+      "pv_estimate10": 0.7037,
+      "pv_estimate90": 1.4654,
+      "period_end": "2019-05-26T23:30:00.0000000Z",
+      "period": "PT30M"
+    },
+    {
+      "pv_estimate": 1.2177,
+      "pv_estimate10": 0.8071,
+      "pv_estimate90": 1.7412,
+      "period_end": "2019-05-27T00:00:00.0000000Z",
+      "period": "PT30M"
+    },
+    {
+      "pv_estimate": 1.3338,
+      "pv_estimate10": 0.8674,
+      "pv_estimate90": 1.919,
+      "period_end": "2019-05-27T00:30:00.0000000Z",
+      "period": "PT30M"
+    },
+    {
+      "pv_estimate": 1.4332,
+      "pv_estimate10": 0.9171,
+      "pv_estimate90": 2.0865,
+      "period_end": "2019-05-27T01:00:00.0000000Z",
+      "period": "PT30M"
+    },
+    {
+      "pv_estimate": 1.5459,
+      "pv_estimate10": 0.9822,
+      "pv_estimate90": 2.2716,
+      "period_end": "2019-05-27T01:30:00.0000000Z",
+      "period": "PT30M"
+    },
+    {
+      "pv_estimate": 1.6762,
+      "pv_estimate10": 1.058,
+      "pv_estimate90": 2.4552,
+      "period_end": "2019-05-27T02:00:00.0000000Z",
+      "period": "PT30M"
+    },
+    {
+      "pv_estimate": 1.7818,
+      "pv_estimate10": 1.1178,
+      "pv_estimate90": 2.6083,
+      "period_end": "2019-05-27T02:30:00.0000000Z",
+      "period": "PT30M"
+    },
+    {
+      "pv_estimate": 1.782,
+      "pv_estimate10": 1.1176,
+      "pv_estimate90": 2.627,
+      "period_end": "2019-05-27T03:00:00.0000000Z",
+      "period": "PT30M"
+    },
+    {
+      "pv_estimate": 1.6721,
+      "pv_estimate10": 1.0192,
+      "pv_estimate90": 2.4892,
+      "period_end": "2019-05-27T03:30:00.0000000Z",
+      "period": "PT30M"
+    },
+    {
+      "pv_estimate": 1.4455,
+      "pv_estimate10": 0.8581,
+      "pv_estimate90": 2.2383,
+      "period_end": "2019-05-27T04:00:00.0000000Z",
+      "period": "PT30M"
+    },
+    {
+      "pv_estimate": 1.2033,
+      "pv_estimate10": 0.6891,
+      "pv_estimate90": 1.9118,
+      "period_end": "2019-05-27T04:30:00.0000000Z",
+      "period": "PT30M"
+    },
+    {
+      "pv_estimate": 0.9729,
+      "pv_estimate10": 0.5326,
+      "pv_estimate90": 1.5718,
+      "period_end": "2019-05-27T05:00:00.0000000Z",
+      "period": "PT30M"
+    },
+    {
+      "pv_estimate": 0.7555,
+      "pv_estimate10": 0.4098,
+      "pv_estimate90": 1.2429,
+      "period_end": "2019-05-27T05:30:00.0000000Z",
+      "period": "PT30M"
+    },
+    {
+      "pv_estimate": 0.5264,
+      "pv_estimate10": 0.272,
+      "pv_estimate90": 0.9091,
+      "period_end": "2019-05-27T06:00:00.0000000Z",
+      "period": "PT30M"
+    },
+    {
+      "pv_estimate": 0.287,
+      "pv_estimate10": 0.1356,
+      "pv_estimate90": 0.525,
+      "period_end": "2019-05-27T06:30:00.0000000Z",
+      "period": "PT30M"
+    },
+    {
+      "pv_estimate": 0.0733,
+      "pv_estimate10": 0.0458,
+      "pv_estimate90": 0.1174,
+      "period_end": "2019-05-27T07:00:00.0000000Z",
+      "period": "PT30M"
+    }
+  ]
+}
